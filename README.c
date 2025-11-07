@@ -33,6 +33,7 @@ int main() {
     struct Person person2 = { "Jiro", 26 };
     print_pointer(&person2);
     
+    print("ace");
     
     return 0;
 }
